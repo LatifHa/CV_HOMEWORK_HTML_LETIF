@@ -1,0 +1,53 @@
+.forNEAR{
+    margin-top: -17px;
+}
+
+#image {
+    border-radius: 50%;
+    display: inline-block;
+   width: 150px;
+   height: 150px;
+   margin-left: 550px;
+  margin-bottom: -150px;
+}
+
+.nearEMAIL{
+    margin-top: -20px;
+}
+
+#LEFT-BORDER-in-left{
+     border-width: 4px;
+    border-left-style: dashed;
+    height: 1020px;
+    width: 600px;
+   color: grey;
+   display: inline-block;
+}
+
+.TEXT-DISTANCE-FROM-BORDER{
+    margin-left: 20px;
+    color:black; 
+}
+
+.no-distance-from-heading{
+    margin-top: 0px;
+}
+
+.Line-height{
+    line-height: 30px
+}
+
+#nearto2011{
+    margin-bottom: 5px;
+}
+
+#LEFT-BORDER-in-right{
+
+    border-width: 4px;
+    border-left-style: dashed;
+    color: gray;
+    height: 1020px;
+    width: 400px;
+    display: inline-block;
+    vertical-align: top;
+}
